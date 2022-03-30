@@ -46,7 +46,7 @@ Recognition performance on the CASIA-Thousand dataset:
 |          | 1&7      | 1.17(0.19) | 3.56    | 13.36   |
 |          | 1&9      | 1.10(0.04) | 3.21    | 12.04   |
 | Un-      | 0&10     | 1.28       | 4.03    | 14.81   |
-| Fuly-    | 10&0     | 0.85       | 2.29    | 11.26   |
+| Fully-    | 10&0     | 0.85       | 2.29    | 11.26   |
 
 
 Recognition performance on the CASIA-Distance dataset:
@@ -59,7 +59,7 @@ Recognition performance on the CASIA-Distance dataset:
 |          | 1&7      | 1.65(0.14) | 5.28    | 15.34   |
 |          | 1&9      | 1.57(0.12) | 5.01    | 13.78   |
 | Un-      | 0&10     | 1.68       | 5.89    | 16.84   |
-| Fuly-    | 10&0     | 0.46       | 4.32    | 12.08   |
+| Fully-    | 10&0     | 1.46       | 4.32    | 12.08   |
 
 ## Citation
 
