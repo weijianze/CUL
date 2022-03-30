@@ -11,6 +11,24 @@ The file of "semi_protocol" is incomplete, we will upload a zip-file on Baidu or
 
 
 
+```
+@article{wei2022iris,
+  author={Jianze Wei and 
+          Huaibo Huang and
+          Yunlong Wang and
+          Ran He and 
+          Zhenan Sun}
+  title={Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors}, 
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  year={2022},
+  volume={17},
+  pages={865-879},
+  publisher={IEEE}
+}
+
+```
+
+```
 @inproceedings{wei2021Contrastive,
   author    = {Jianze Wei and
                Ran He and
@@ -21,3 +39,4 @@ The file of "semi_protocol" is incomplete, we will upload a zip-file on Baidu or
   publisher = {{IEEE}},
   year      = {2021},
 }
+
