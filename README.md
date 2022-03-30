@@ -1,6 +1,6 @@
 # Contrastive uncertainty learning (CUL)
 
-This is an official implementation of "Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples" (Accepted by IJCB, oral[https://ieeexplore.ieee.org/abstract/document/9484388/]).
+This is an official implementation of "Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples" (Accepted by IJCB, [oral](https://ieeexplore.ieee.org/abstract/document/9484388/).
 To the best of my knowledge, CUL is the **first work for unsupervised iris recognition**, and it achieves data augmentation based on probabilistic embedding (uncertainty embedding) and applies contrastive self-supervised learning. 
 
 
