@@ -5,7 +5,7 @@ To best of my knowledge, CUL is the **first work for unsupervised iris recogniti
 
 
 ## Why we developed unsupervised iris recognition?
-The core of its answer is the Application scenarios of unsupervised iris recognition.
+The core of its answer is the **Application Scenarios** of unsupervised iris recognition.
 
 When deploying an iris recognition system in a new environment, it is easy to occur severe performance degradation. 
 The performance degradation is generally caused by the gap in acquisition conditions between the deployment scene and the training scene, a.k.a, cross-database setting.
@@ -13,6 +13,10 @@ To better promote the development of iris recognition, we propose a compromise s
 In this new setting, the model can be quickly deployed in a new environment with satisfactory performance using limited labeled data and abundant unlabeled
 data. In the paper, the proposed CUL utilizes partially- or un-labeled data to mitigate this performance degradation.
 
+
+
+
+## Citation
 
 ```
 @article{wei2022iris,
