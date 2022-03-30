@@ -34,6 +34,19 @@ In addition, the lower computational cost of data augmentation is another advant
 ### Contrastive uncertainty learning loss
 (TODO) I am being busy with graduation now, and this part will be added soon.
 
+## Prerequisites
+This implementation is based on platform of pytorch 1.7, our environment is:
+- Linux
+- Python 3.6
+- CPU or NVIDIA GPU + CUDA CuDNN
+- Pytorch 1.7
+- Torchvision  0.8.2
+- Pillow  8.1
+- Numpy   1.19.5
+- Scikit-learn  0.24.0
+- Scipy  1.5.4
+- Ipython  7.16.1
+- Thop (for computational complexity)
 
 ## Recognition performance
 Recognition performance on the CASIA-Thousand dataset:
