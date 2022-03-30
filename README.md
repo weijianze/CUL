@@ -36,6 +36,19 @@ In addition, the lower computational cost of data augmentation is another advant
 
 
 ## Recognition performance
+Recognition performance on the CASIA-Thousand dataset:
+| --       | FNMR@FMR | EER        | 10^{-3} | 10^{-5} |
+| -------- | -------- | ---------- | ------- | ------- |
+| Pretrain | 0&0      | 2.74       | 12.04   | 32.87   |
+| Semi     | 1&1      | 1.44(0.36) | 4.52    | 15.94   |
+|          | 1&3      | 1.42(0.39) | 4.46    | 15.11   |
+|          | 1&5      | 1.23(0.25) | 3.79    | 14.19   |
+|          | 1&7      | 1.17(0.19) | 3.56    | 13.36   |
+|          | 1&9      | 1.10(0.04) | 3.21    | 12.04   |
+| Un-      | 0&10     | 1.28       | 4.03    | 14.81   |
+| Fuly-    | 10&0     | 0.85       | 2.29    | 11.26   |
+
+
 ## Citation
 
 ```
